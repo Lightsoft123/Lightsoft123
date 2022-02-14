@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi All! 👋
+
+Allow me to introduce myself, my name is **Steven Febrianto**.\
+I'm a **Curriculum Developer** in [Dicoding]((https://www.dicoding.com/).
+
 
 <!--
 **Lightsoft123/Lightsoft123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
