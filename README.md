@@ -3,6 +3,14 @@
 Allow me to introduce myself, my name is **Steven Febrianto**.\
 I'm a **Curriculum Developer** in [Dicoding]((https://www.dicoding.com/).
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lightsoft123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lightsoft123&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <!--
 **Lightsoft123/Lightsoft123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
