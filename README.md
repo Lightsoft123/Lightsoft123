@@ -5,7 +5,7 @@ I'm a **Curriculum Developer** in [Dicoding]((https://www.dicoding.com/).
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/Lightsoft123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lightsoft123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lightsoft123&layout=compact&langs_count=8&theme=algolia"/>
 </a>
