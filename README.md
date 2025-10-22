@@ -1,7 +1,7 @@
 ### Hi All! 👋
 
 Allow me to introduce myself, my name is **Steven Febrianto**.\
-I'm a **Curriculum Developer** in [Dicoding]((https://www.dicoding.com/).
+I'm a **Fullstack Web Developer**. I'm so excited to learn a new thing in my life.
 
 ### Github Statistic
 <p align="left">
